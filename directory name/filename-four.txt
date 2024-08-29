@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ini file 4
+=======
+ini function file 4
+>>>>>>> Stashed changes
